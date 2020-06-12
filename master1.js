@@ -13,4 +13,15 @@ p
 India
 history
 science
-maths
+math
+a
+s
+f
+g
+t
+t
+t
+t
+t
+t
+ts
