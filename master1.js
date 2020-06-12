@@ -11,3 +11,6 @@ i
 o
 p
 India
+history
+science
+maths
