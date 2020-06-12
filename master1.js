@@ -1,15 +1,12 @@
-hello
-hi
-mobs
-css
-html
+India
+Africa
+Europe
+a
+b
+c
+d
+e
+f
+g
+h
 
-apple
-bat
-beer
-box
-hat
-
-houser
-hi
-paramesh
